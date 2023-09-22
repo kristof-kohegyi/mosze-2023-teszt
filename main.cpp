@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Tessék beleirtam valamit. by Barnabás" << std::endl;
     return 0;
 }
